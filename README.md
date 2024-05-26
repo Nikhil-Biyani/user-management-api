@@ -5,6 +5,11 @@
 https://scoremarks.notion.site/Sample-Task-User-List-Management-and-Email-Sending-API-95730b8da4674359bfcdcda3639b27d1?pvs=4
 ```
 
+## Deployment Link
+```
+https://user-management-api-ial3.onrender.com/
+```
+
 ## Overview
 
 This project provides a RESTful API for managing a list of users with customizable properties and sending emails to the users. The API supports features such as list creation, user addition via CSV upload, email sending, and user unsubscription.
